@@ -6,3 +6,6 @@ git branch -M main
 git remote add origin https://github.com/YOUCEFDJE/tutorial1.git
 git push -u origin main
 # Totoriel 
+git remote add origin https://github.com/YOUCEFDJE/tutorial1.git
+git branch -M main
+git push -u origin main
